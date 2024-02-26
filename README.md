@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Artificial intelligence specialist with 10+ years of experience in software engineering. 
+I have expertise in Text and Data Mining, Natural Language Processing, and Data Science. 
+I'm interested in the development of specialized processes for scientific text, in particular document parsing and structuring. 
+
+I like mostly anything related to the outdoor and travel. 
+
 <!--
 **lfoppiano/lfoppiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
