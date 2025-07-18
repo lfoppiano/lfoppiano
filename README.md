@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Artificial intelligence specialist with 10+ years of experience in software engineering. 
+AI/ML/TDM specialist with 10+ years of experience in software engineering. 
 I have expertise in Text and Data Mining, Natural Language Processing, and Data Science. 
 I'm interested in the development of specialized processes for scientific text, in particular document parsing and structuring. 
 
