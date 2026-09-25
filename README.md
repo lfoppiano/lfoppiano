@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-AI/ML/TDM specialist with 10+ years of experience in software engineering. 
-I have expertise in Text and Data Mining, Natural Language Processing, and Data Science. 
-I'm interested in the development of specialized processes for scientific text, in particular document parsing and structuring. 
+Luca Foppiano is a research engineer and the founder of ScienciaLAB, an independent consultancy specialising in scientific text mining and research infrastructure, based in Aveiro, Portugal. He is a core maintainer of GROBID and its surrounding ecosystem, including grobid-quantities, biblio-glutton and DeLFT, open-source tools used widely across digital libraries, publishers and research institutions to turn scholarly PDFs into structured, machine-readable data. 
 
-I like mostly anything related to the outdoor and travel. 
+He is collaborating with Inria and DFKI. He also works with the Common Crawl Foundation, where he contributes to the crawler and data-processing pipeline behind one of the largest open web corpora and the web graph releases.
 
 <!--
 **lfoppiano/lfoppiano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
